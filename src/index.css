@@ -15,30 +15,27 @@
   animation: seasonBG 20s ease infinite;
 }
 
-/* Animation keyframes for seasons */
 @keyframes seasonBG {
 
-  /* Summer (garmi) – warm orange/yellow */
   0% {
     background-position: 0% 50%;
   }
 
-  /* Winter (thand) – cool blue/white */
+ 
   25% {
     background-position: 100% 50%;
   }
 
-  /* Rainy – blue/green */
   50% {
     background-position: 0% 50%;
   }
 
-  /* Autumn (patjhadh) – orange/purple */
+ 
   75% {
     background-position: 100% 50%;
   }
 
-  /* Loop back */
+
   100% {
     background-position: 0% 50%;
   }
