@@ -1,4 +1,4 @@
-![Landing Page](WeatherApp.png)
+![Landing Page](images/WeatherApp.png)
 
 # React + Vite
 
